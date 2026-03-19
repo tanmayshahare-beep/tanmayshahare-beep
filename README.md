@@ -55,6 +55,7 @@ I am a developer focused on building scalable software systems and intelligent a
 
 - Email: [shaharetanmay1@gmail.com](mailto:shaharetanmay1@gmail.com)
 - GitHub: [tanmayshahare-beep](https://github.com/tanmayshahare-beep)
+- Instagram: [Tamarve](https://www.instagram.com/tamarve?igsh=MTQ5ajkwZGpiYW53cg==) 
 
 ---
 
