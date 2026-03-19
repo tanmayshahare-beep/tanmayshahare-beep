@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Tanmay Shahare
+#  Hi, I'm Tanmay Shahare
 
 **Software Developer** | Machine Learning & Full‑Stack Development
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I am a developer focused on building scalable software systems and intelligent applications. My interests include machine learning, distributed systems, and modern web technologies.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,19 +32,20 @@ I am a developer focused on building scalable software systems and intelligent a
 
 ---
 
-## 🔭 Current Focus
+##  Current Focus
 
-- 🧠 Advanced machine learning techniques  
-- ⚙️ Backend system design  
-- 🌍 Open-source contributions  
-
----
-
-## 📫 Contact
-
-📧 Email: [shaharetanmay1@gmail.com](mailto:shaharetanmay1@gmail.com)  
-🐙 GitHub: [tanmayshahare-beep](https://github.com/tanmayshahare-beep)
+-  Advanced machine learning techniques  
+-  Backend system design  
+-  Open-source contributions  
 
 ---
 
-⭐️ From [Tanmay Shahare](https://github.com/tanmayshahare-beep)
+##  Contact
+
+ Email: [shaharetanmay1@gmail.com](mailto:shaharetanmay1@gmail.com)  
+ GitHub: [tanmayshahare-beep](https://github.com/tanmayshahare-beep)
+ Insta: [Tamarve](https://www.instagram.com/tamarve?igsh=MTQ5ajkwZGpiYW53cg==)
+
+---
+
+ From [Tanmay Shahare](https://github.com/tanmayshahare-beep)
