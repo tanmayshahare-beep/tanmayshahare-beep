@@ -1,10 +1,4 @@
-# Tanmay Shahare
-
-Software Developer | Machine Learning & Full‑Stack Development
-
----
-
-## About Me
+# Tanmay Shahare
 
 I am a developer focused on building scalable software systems and intelligent applications. My interests span machine learning, deep learning, quantitative finance, distributed systems, and modern web technologies. I enjoy exploring novel architectures—from hybrid quantum-classical routing to fractal activation functions—and building production-ready tools across domains.
 
