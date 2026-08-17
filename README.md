@@ -116,18 +116,29 @@ auth, DB wiring — from one config file.
 
 <br/>
 
-## Activity
+## Fractal activations
 
-<!-- These two cards use the public github-readme-stats instance, which is
-     rate-limited and goes down. If they break, deploy your own Vercel
-     instance and swap the hostname in both URLs below. -->
+Self-similar nonlinearities, applied recursively so the activation has the same
+shape at every scale. The open question is whether that structure buys anything
+a plain GELU doesn't.
+
+<!-- Export one figure from the Fractal repo as SVG, commit it to
+     assets/ in THIS repo, and it will serve from raw.githubusercontent.com —
+     the same host as the snake below, so it cannot break.
+     If you don't have a result worth showing yet, delete this whole section
+     rather than shipping a placeholder. -->
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=tanmayshahare-beep&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&hide=issues" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayshahare-beep&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&langs_count=6&hide=html,css" />
+<img width="72%" src="https://raw.githubusercontent.com/tanmayshahare-beep/tanmayshahare-beep/main/assets/fractal-benchmark.svg" alt="" />
 
-<br/><br/>
+<sub>validation accuracy vs. GELU baseline &nbsp;·&nbsp; <a href="https://github.com/tanmayshahare-beep/Fractal-activtion-functions">method and code</a></sub>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanmayshahare-beep/tanmayshahare-beep/output/github-snake-dark.svg" />
