@@ -30,26 +30,38 @@ Currently:
 
 ## Selected work
 
-<!-- Replace REPO_NAME with your actual repos. Delete rows you don't have yet.
-     Two strong entries beat six weak ones. -->
+<!-- These cards pull each repo's GitHub "About" description.
+     If a repo has no description, the card renders half-empty.
+     Set descriptions before shipping this. -->
 
 <div align="center">
 
-<a href="https://github.com/tanmayshahare-beep/REPO_NAME">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmayshahare-beep&repo=REPO_NAME&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+<a href="https://github.com/tanmayshahare-beep/Fractal-activtion-functions">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmayshahare-beep&repo=Fractal-activtion-functions&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
 </a>
-<a href="https://github.com/tanmayshahare-beep/REPO_NAME">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmayshahare-beep&repo=REPO_NAME&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+<a href="https://github.com/tanmayshahare-beep/time-complexity-analyser-for-VS-Code">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmayshahare-beep&repo=time-complexity-analyser-for-VS-Code&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
 </a>
 
-<a href="https://github.com/tanmayshahare-beep/REPO_NAME">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmayshahare-beep&repo=REPO_NAME&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+<a href="https://github.com/tanmayshahare-beep/Stock-ML">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmayshahare-beep&repo=Stock-ML&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
 </a>
-<a href="https://github.com/tanmayshahare-beep/REPO_NAME">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmayshahare-beep&repo=REPO_NAME&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+<a href="https://github.com/tanmayshahare-beep/Universal-backend-Scaffolding-CLI">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmayshahare-beep&repo=Universal-backend-Scaffolding-CLI&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
 </a>
 
 </div>
+
+<details>
+<summary><sub>also worth a look</sub></summary>
+<br/>
+
+- [**Victim-LLM**](https://github.com/tanmayshahare-beep/Victim-llm) — a model that engages scammers in good-faith-looking conversation to waste their time
+- [**Quantum task delegation**](https://github.com/tanmayshahare-beep/Quantum-task-delegation-) — routes a computational problem to classical or quantum hardware based on its structure
+- [**Swarm shape outliner**](https://github.com/tanmayshahare-beep/Swarm-Shape-outliner) — multi-agent formation control
+- [**AEGIS**](https://github.com/tanmayshahare-beep/AEGIS-Drone-stablizer) — learned stabilisation policy for a small quadcopter
+
+</details>
 
 <br/>
 
